@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
  BE Computer Engineering Student<br> Data Analytics & AI Enthusiast<br> Python | SQL | Excel | Tableau | Power BI | ML<br> Turning data into actionable insights and business solutions.<br>
