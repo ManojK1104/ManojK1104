@@ -1,4 +1,3 @@
-
 # 💫 About Me:
  BE Computer Engineering <br> Data Analytics & AI <br> Python | SQL | Excel | Tableau | Power BI | ML<br> Turning data into actionable insights and business solutions.<br>
 
