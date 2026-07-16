@@ -1,8 +1,17 @@
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/258855041?v=4" width="140" style="border-radius:50%;" alt="Manoj R. Kushwaha"/>
+
 # Manoj R. Kushwaha
 
 **Data Science & Analytics Enthusiast | Exploring AI & Building Real-World Projects | Turning Data into Insights**
 
-[LinkedIn](https://linkedin.com/in/manoj-kushwaha-5840a428b) · [Email](mailto:manojrkushwaha85@gmail.com) · [GitHub](https://github.com/ManojK1104) · [DagsHub](https://dagshub.com/ManojK1104)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kushwaha-5840a428b)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manojrkushwaha85@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ManojK1104)
+[![DagsHub](https://img.shields.io/badge/DagsHub-Profile-1F0954?style=flat-square&logo=dagshub&logoColor=white)](https://dagshub.com/ManojK1104)
+
+</div>
 
 ---
 
@@ -21,21 +30,55 @@ BE Computer Engineering graduate with a passion for Data Analytics and Artificia
 
 Adept at designing enterprise-style datasets and analytics solutions across industries like fintech, aviation, and retail.
 
-- **NexusPay Transaction Database** — A fast-scaling fintech platform database design enabling P2P transfers, merchant payments, virtual cards, and micro-investments at scale.
-- **Aerox NextGen Database** — A next-generation aviation analytics solution built in Power BI to monitor flight operations, passenger booking behavior, revenue performance, and crew management.
-- **Client Dataset Analytics** — A unified, enterprise-style dataset combining sales, customer, marketing, operations, risk, and strategic data for operational and executive-level insights.
-- **ShopVerse FinTech Solutions** — A simulated dataset of real-world financial operations covering transactions, customer behavior, lending, and fraud detection across India.
+| Project | Description |
+|---|---|
+| **[NexusPay Transaction Database](https://github.com/ManojK1104/NexusPay_TransactionDataBase)** | A fast-scaling fintech platform database design enabling P2P transfers, merchant payments, virtual cards, and micro-investments at scale. |
+| **[Aerox NextGen Database](https://github.com/ManojK1104/Aerox_NextGen_DataBase)** | A next-generation aviation analytics solution built in Power BI to monitor flight operations, passenger booking behavior, revenue performance, and crew management. |
+| **[Client Dataset Analytics](https://github.com/ManojK1104/Client_Dataset_analytics)** | A unified, enterprise-style dataset combining sales, customer, marketing, operations, risk, and strategic data for operational and executive-level insights. |
+| **[ShopVerse FinTech Solutions](https://github.com/ManojK1104/ShopVerse_FinTechSolutions)** | A simulated dataset of real-world financial operations covering transactions, customer behavior, lending, and fraud detection across India. |
 
 ---
 
 ## ⚡ Tech Stack
 
-**Programming & Databases:** C++, Python, MySQL, SQL
+**Programming & Databases**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square)
 
-**AI / Machine Learning:** TensorFlow, PyTorch, Scikit-Learn, MLflow
+**AI / Machine Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-**Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Plotly, SciPy, Power BI
+**Data Analysis & Visualization**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Data Platform & DevOps:** Snowflake, Git, GitHub
+**Data Platform & DevOps**
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ManojK1104&show_icons=true&theme=default&hide_border=true" width="48%" alt="Manoj's GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojK1104&theme=default&hide_border=true" width="48%" alt="Manoj's GitHub streak"/>
+</div>
+
+---
+
+<div align="center">
+
+📫 **Let's connect** — always open to conversations about data, analytics, and AI.
+
+</div>
