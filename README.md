@@ -1,10 +1,10 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EB9DF&center=true&vCenter=true&random=false&width=435&lines=Manoj+R.+Kushwaha;Data+Science+%26+Analytics+Enthusiast;Exploring+AI+%26+ML;Turning+Data+into+Insights" alt="Typing SVG" />
+</h1>
+
 <div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/258855041?v=4" width="140" style="border-radius:50%;" alt="Manoj R. Kushwaha"/>
-
-# Manoj R. Kushwaha
-
-**Data Science & Analytics Enthusiast | Exploring AI & Building Real-World Projects | Turning Data into Insights**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kushwaha-5840a428b)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manojrkushwaha85@gmail.com)
