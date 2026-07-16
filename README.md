@@ -4,6 +4,8 @@
 
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/258855041?v=4" width="140" style="border-radius:50%;" alt="Manoj R. Kushwaha"/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kushwaha-5840a428b)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manojrkushwaha85@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ManojK1104)
@@ -28,12 +30,10 @@ BE Computer Engineering graduate with a passion for Data Analytics and Artificia
 
 Adept at designing enterprise-style datasets and analytics solutions across industries like fintech, aviation, and retail.
 
-| Project | Description |
-|---|---|
-| **[NexusPay Transaction Database](https://github.com/ManojK1104/NexusPay_TransactionDataBase)** | A fast-scaling fintech platform database design enabling P2P transfers, merchant payments, virtual cards, and micro-investments at scale. |
-| **[Aerox NextGen Database](https://github.com/ManojK1104/Aerox_NextGen_DataBase)** | A next-generation aviation analytics solution built in Power BI to monitor flight operations, passenger booking behavior, revenue performance, and crew management. |
-| **[Client Dataset Analytics](https://github.com/ManojK1104/Client_Dataset_analytics)** | A unified, enterprise-style dataset combining sales, customer, marketing, operations, risk, and strategic data for operational and executive-level insights. |
-| **[ShopVerse FinTech Solutions](https://github.com/ManojK1104/ShopVerse_FinTechSolutions)** | A simulated dataset of real-world financial operations covering transactions, customer behavior, lending, and fraud detection across India. |
+- **[NexusPay Transaction Database](https://github.com/ManojK1104/NexusPay_TransactionDataBase)** — A fast-scaling fintech platform database design enabling P2P transfers, merchant payments, virtual cards, and micro-investments at scale.
+- **[Aerox NextGen Database](https://github.com/ManojK1104/Aerox_NextGen_DataBase)** — A next-generation aviation analytics solution built in Power BI to monitor flight operations, passenger booking behavior, revenue performance, and crew management.
+- **[Client Dataset Analytics](https://github.com/ManojK1104/Client_Dataset_analytics)** — A unified, enterprise-style dataset combining sales, customer, marketing, operations, risk, and strategic data for operational and executive-level insights.
+- **[ShopVerse FinTech Solutions](https://github.com/ManojK1104/ShopVerse_FinTechSolutions)** — A simulated dataset of real-world financial operations covering transactions, customer behavior, lending, and fraud detection across India.
 
 ---
 
@@ -81,16 +81,6 @@ Adept at designing enterprise-style datasets and analytics solutions across indu
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ManojK1104&show_icons=true&theme=default&hide_border=true" width="48%" alt="Manoj's GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojK1104&theme=default&hide_border=true" width="48%" alt="Manoj's GitHub streak"/>
-</div>
-
----
-
-<div align="center">
 
 📫 **Let's connect** — always open to conversations about data, analytics, and AI.
 
