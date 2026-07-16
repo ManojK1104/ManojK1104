@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/258855041?v=4" width="140" style="border-radius:50%;" alt="Manoj R. Kushwaha"/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kushwaha-5840a428b)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manojrkushwaha85@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ManojK1104)
