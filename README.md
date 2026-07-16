@@ -1,13 +1,41 @@
-# 💫 About Me:
- BE Computer Engineering <br> Data Analytics & AI <br> Python | SQL | Excel | Tableau | Power BI | ML<br> Turning data into actionable insights and business solutions.<br>
+# Manoj R. Kushwaha
 
+**Data Science & Analytics Enthusiast | Exploring AI & Building Real-World Projects | Turning Data into Insights**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kushwaha-5840a428b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojrkushwaha85@gmail.com) 
+[LinkedIn](https://linkedin.com/in/manoj-kushwaha-5840a428b) · [Email](mailto:manojrkushwaha85@gmail.com) · [GitHub](https://github.com/ManojK1104) · [DagsHub](https://dagshub.com/ManojK1104)
 
+---
 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+BE Computer Engineering graduate with a passion for Data Analytics and Artificial Intelligence. I enjoy exploring how raw, messy data can be transformed into clear, actionable business insights — and I'm constantly building real-world projects to sharpen that craft. Based in Mumbai, I focus on end-to-end analytics workflows, from data engineering and database design to dashboarding and machine learning.
 
+- 🎯 **Core Focus:** Data Analytics, Business Intelligence, Machine Learning, Database Design
+- 🧠 **Currently Exploring:** AI applications in fintech, aviation, and enterprise analytics
+- 🌐 **Approach:** Building practical, real-world datasets and dashboards that mirror actual business problems
+- 🔧 **Mission:** Turning data into insights that drive better decisions
 
+---
+
+## 🛠️ Featured Projects
+
+Adept at designing enterprise-style datasets and analytics solutions across industries like fintech, aviation, and retail.
+
+- **NexusPay Transaction Database** — A fast-scaling fintech platform database design enabling P2P transfers, merchant payments, virtual cards, and micro-investments at scale.
+- **Aerox NextGen Database** — A next-generation aviation analytics solution built in Power BI to monitor flight operations, passenger booking behavior, revenue performance, and crew management.
+- **Client Dataset Analytics** — A unified, enterprise-style dataset combining sales, customer, marketing, operations, risk, and strategic data for operational and executive-level insights.
+- **ShopVerse FinTech Solutions** — A simulated dataset of real-world financial operations covering transactions, customer behavior, lending, and fraud detection across India.
+
+---
+
+## ⚡ Tech Stack
+
+**Programming & Databases:** C++, Python, MySQL, SQL
+
+**AI / Machine Learning:** TensorFlow, PyTorch, Scikit-Learn, MLflow
+
+**Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Plotly, SciPy, Power BI
+
+**Data Platform & DevOps:** Snowflake, Git, GitHub
+
+---
