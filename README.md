@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/258855041?v=4" width="140" style="border-radius:50%;" alt="Manoj R. Kushwaha"/>
-
 **Aspiring Data Science & Analytics Professional | Python · SQL · Power BI · Machine Learning**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kushwaha-5840a428b)
