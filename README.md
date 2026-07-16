@@ -31,7 +31,7 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 - **[ShopVerse FinTech Analytics Solution](https://github.com/ManojK1104/ShopVerse_FinTechSolutions)** *(Python, SQL, Power BI, DAX)*
   Built a FinTech analytics solution to monitor online payment transactions, detect fraudulent activity, and analyze customer behavior. Automated transaction reporting with an interactive Power BI dashboard — cutting manual analysis time by 70% (10 hrs/week → 3 hrs) and improving real-time fraud detection.
 
-- **Fundraising Business Intelligence Dashboard** *(Python, SQL, Power BI, Tableau, DAX)*
+- **[Fundraising Business Intelligence Dashboard](https://github.com/ManojK1104/FundRaising_BusinessIntellegence_Model)** *(Python, SQL, Power BI, Tableau, DAX)*
   Designed a BI solution to analyze fundraising campaigns and track donor contributions. Integrated multi-source data via SQL and built KPI dashboards in Power BI, reducing manual reporting effort by 60% and improving campaign visibility.
 
 - **[Client Dataset Analysis & Insights Dashboard](https://github.com/ManojK1104/Client_Dataset_analytics)** *(Python, SQL, Power BI, Tableau, DAX)*
@@ -45,6 +45,49 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 
 ---
 
+## ⚡ Tech Stack
+
+**Programming & Databases**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Machine Learning**
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Data Analysis & Visualization**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-8CAAE6?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Tools & Platforms**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Data Analysis**
+`EDA` `Data Cleaning` `Statistical Analysis` `Hypothesis Testing` `Data Wrangling`
+
+**Excel Skills**
+`Pivot Tables` `VLOOKUP` `Power Query` `Power Pivot`
+
+**Machine Learning Techniques**
+`Linear Regression` `Logistic Regression` `Decision Trees` `Random Forest` `K-Means Clustering`
+
+**Core Concepts**
+`Probability` `Statistics` `Linear Algebra` `Model Evaluation` `Feature Engineering`
+
+---
 
 📫 **Let's connect** — open to entry-level Data Science / Analytics opportunities and conversations about data and insights.
 
