@@ -4,8 +4,6 @@
 
 <div align="center">
 
-**Aspiring Data Science & Analytics Professional | Python · SQL · Power BI · Machine Learning**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kushwaha-5840a428b)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manojrkushwaha85@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ManojK1104)
@@ -26,23 +24,12 @@ Aspiring Data Science & Analytics professional with hands-on experience in Pytho
 
 ---
 
-## 🎓 Education
-
-**B.E. in Computer Engineering** — University of Mumbai *(May 2023 – May 2027)*
-**Higher Secondary Certificate (HSC)** — University of Mumbai *(May 2021 – May 2023)*
-**Secondary School Certificate (SSC)** — Maharashtra State Board *(May 2020 – May 2021)*
-
----
-
 ## 🛠️ Featured Projects
 
 Adept at designing enterprise-style datasets and analytics solutions across fintech, aviation, and retail.
 
 - **[ShopVerse FinTech Analytics Solution](https://github.com/ManojK1104/ShopVerse_FinTechSolutions)** *(Python, SQL, Power BI, DAX)*
   Built a FinTech analytics solution to monitor online payment transactions, detect fraudulent activity, and analyze customer behavior. Automated transaction reporting with an interactive Power BI dashboard — cutting manual analysis time by 70% (10 hrs/week → 3 hrs) and improving real-time fraud detection.
-
-- **Fundraising Business Intelligence Dashboard** *(Python, SQL, Power BI, Tableau, DAX)*
-  Designed a BI solution to analyze fundraising campaigns and track donor contributions. Integrated multi-source data via SQL and built KPI dashboards in Power BI, reducing manual reporting effort by 60% and improving campaign visibility.
 
 - **[Client Dataset Analysis & Insights Dashboard](https://github.com/ManojK1104/Client_Dataset_analytics)** *(Python, SQL, Power BI, Tableau, DAX)*
   Partnered with a client to clean and analyze their raw operational dataset, uncover key trends, and deliver a self-service reporting solution — cutting manual reporting time by over 50%.
@@ -92,23 +79,7 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 `Probability` `Statistics` `Linear Algebra` `Feature Engineering` `Model Evaluation` `Hypothesis Testing` `Data Wrangling` `EDA`
 
 ---
-
-## 📜 Certifications
-
-- **Mastering Data Science and Data Analytics** — IT Vedant Pvt. Ltd.
-
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ManojK1104&show_icons=true&theme=default&hide_border=true" width="48%" alt="Manoj's GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojK1104&theme=default&hide_border=true" width="48%" alt="Manoj's GitHub streak"/>
-</div>
-
----
-
-<div align="center">
 
 📫 **Let's connect** — open to entry-level Data Science / Analytics opportunities and conversations about data and insights.
 
