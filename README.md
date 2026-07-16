@@ -76,18 +76,34 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 **Data Analysis**
-`EDA` `Data Cleaning` `Statistical Analysis` `Hypothesis Testing` `Data Wrangling`
+![EDA](https://img.shields.io/badge/EDA-4B8BBE?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4B8BBE?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-4B8BBE?style=flat-square)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-4B8BBE?style=flat-square)
+![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-4B8BBE?style=flat-square)
 
 **Excel Skills**
-`Pivot Tables` `VLOOKUP` `Power Query` `Power Pivot`
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square)
+![VLOOKUP](https://img.shields.io/badge/VLOOKUP-217346?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
+![Power Pivot](https://img.shields.io/badge/Power_Pivot-217346?style=flat-square)
 
 **Machine Learning Techniques**
-`Linear Regression` `Logistic Regression` `Decision Trees` `Random Forest` `K-Means Clustering`
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-F7931E?style=flat-square)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-F7931E?style=flat-square)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-F7931E?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random_Forest-F7931E?style=flat-square)
+![K-Means Clustering](https://img.shields.io/badge/K--Means_Clustering-F7931E?style=flat-square)
 
 **Core Concepts**
-`Probability` `Statistics` `Linear Algebra` `Model Evaluation` `Feature Engineering`
+![Probability](https://img.shields.io/badge/Probability-6A5ACD?style=flat-square)
+![Statistics](https://img.shields.io/badge/Statistics-6A5ACD?style=flat-square)
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-6A5ACD?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-6A5ACD?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-6A5ACD?style=flat-square)
 
 ---
+
 
 📫 **Let's connect** — open to entry-level Data Science / Analytics opportunities and conversations about data and insights.
 
