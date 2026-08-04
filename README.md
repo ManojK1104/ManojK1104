@@ -1,110 +1,87 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EB9DF&center=true&vCenter=true&random=false&width=435&lines=Manoj+R+Kushwaha" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there, I'm Manoj Kushwaha 👋</h1>
+<h3 align="center">Data Science & Data Analytics Enthusiast | Exploring AI | Turning Data into Insights</h3>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kushwaha-5840a428b)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manojrkushwaha85@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ManojK1104)
-[![DagsHub](https://img.shields.io/badge/DagsHub-Profile-1F0954?style=flat-square&logo=dagshub&logoColor=white)](https://dagshub.com/ManojK1104)
-
-</div>
-
----
-
-## 🚀 About Me
-
-Aspiring Data Science & Analytics professional with hands-on experience in Python, SQL, Power BI, and Machine Learning. Skilled in Exploratory Data Analysis (EDA), predictive modelling, and building interactive BI dashboards using DAX and Tableau. Based in Mumbai, I'm currently pursuing my B.E. in Computer Engineering and actively seeking an entry-level Data Science or Data Analytics role to deliver data-driven business insights and solve real-world problems.
-
-- 🎯 **Core Focus:** Data Analytics, Exploratory Data Analysis, Predictive Modelling, BI Dashboards
-- 🧠 **Currently Exploring:** Machine learning applications in fintech, aviation, and enterprise analytics
-- 🌐 **Approach:** Building practical, real-world datasets and dashboards that mirror actual business problems
-- 🔧 **Goal:** Turning raw data into insights that drive better business decisions
+<p align="center">
+  <a href="https://linkedin.com/in/manoj-kushwaha-5840a428b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manojrkushwaha85@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://dagshub.com/ManojK1104">
+    <img src="https://img.shields.io/badge/DagsHub-FF7F0E?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Featured Projects
+### 💫 About Me
 
-Adept at designing enterprise-style datasets and analytics solutions across fintech, aviation, and retail.
-
-- **[ShopVerse FinTech Analytics Solution](https://github.com/ManojK1104/ShopVerse_FinTechSolutions)** *(Python, SQL, Power BI, DAX)*
-  Built a FinTech analytics solution to monitor online payment transactions, detect fraudulent activity, and analyze customer behavior. Automated transaction reporting with an interactive Power BI dashboard — cutting manual analysis time by 70% (10 hrs/week → 3 hrs) and improving real-time fraud detection.
-
-- **[Fundraising Business Intelligence Dashboard](https://github.com/ManojK1104/FundRaising_BusinessIntellegence_Model)** *(Python, SQL, Power BI, Tableau, DAX)*
-  Designed a BI solution to analyze fundraising campaigns and track donor contributions. Integrated multi-source data via SQL and built KPI dashboards in Power BI, reducing manual reporting effort by 60% and improving campaign visibility.
-
-- **[Client Dataset Analysis & Insights Dashboard](https://github.com/ManojK1104/Client_Dataset_analytics)** *(Python, SQL, Power BI, Tableau, DAX)*
-  Partnered with a client to clean and analyze their raw operational dataset, uncover key trends, and deliver a self-service reporting solution — cutting manual reporting time by over 50%.
-
-- **[NexusPay Transaction Database](https://github.com/ManojK1104/NexusPay_TransactionDataBase)** *(SQL, Database Design)*
-  Designed a scalable database architecture for a fast-growing fintech platform supporting P2P transfers, merchant payments, virtual cards, and micro-investments.
-
-- **[Aerox NextGen Database](https://github.com/ManojK1104/Aerox_NextGen_DataBase)** *(Power BI)*
-  Built an aviation analytics solution to monitor flight operations, passenger booking behavior, revenue performance, aircraft utilization, and crew management.
+- 🎓 BE in Computer Engineering
+- 📊 Passionate about **Data Analytics, Machine Learning & AI**
+- 🛠️ Skilled in **Python, SQL, Excel, Tableau, Power BI, ML**
+- 🚀 Currently building real-world data & analytics projects
+- 📍 Based in Mumbai, India
+- 💬 Ask me about data pipelines, dashboards, and predictive modeling
 
 ---
 
-## ⚡ Tech Stack
+### 💻 Tech Stack
 
-**Programming & Databases**
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Languages & Databases**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-**Machine Learning**
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+**Data Science & ML**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-**Data Analysis & Visualization**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-8CAAE6?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+**BI & Visualization**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-**Tools & Platforms**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Data Analysis**
-![EDA](https://img.shields.io/badge/EDA-4B8BBE?style=flat-square)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4B8BBE?style=flat-square)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-4B8BBE?style=flat-square)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-4B8BBE?style=flat-square)
-![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-4B8BBE?style=flat-square)
-
-**Excel Skills**
-![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square)
-![VLOOKUP](https://img.shields.io/badge/VLOOKUP-217346?style=flat-square)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
-![Power Pivot](https://img.shields.io/badge/Power_Pivot-217346?style=flat-square)
-
-**Machine Learning Techniques**
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-F7931E?style=flat-square)
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-F7931E?style=flat-square)
-![Decision Trees](https://img.shields.io/badge/Decision_Trees-F7931E?style=flat-square)
-![Random Forest](https://img.shields.io/badge/Random_Forest-F7931E?style=flat-square)
-![K-Means Clustering](https://img.shields.io/badge/K--Means_Clustering-F7931E?style=flat-square)
-
-**Core Concepts**
-![Probability](https://img.shields.io/badge/Probability-6A5ACD?style=flat-square)
-![Statistics](https://img.shields.io/badge/Statistics-6A5ACD?style=flat-square)
-![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-6A5ACD?style=flat-square)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-6A5ACD?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-6A5ACD?style=flat-square)
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-d9ead3?style=for-the-badge&logo=numpy&logoColor=blue)
 
 ---
 
+### 🚀 Featured Projects
 
-📫 **Let's connect** — open to entry-level Data Science / Analytics opportunities and conversations about data and insights.
+| Project | Description |
+|---|---|
+| 🏦 [**NexusPay Transaction Database**](https://github.com/ManojK1104/NexusPay_TransactionDataBase) | A fintech database design for a fast-scaling P2P/merchant payments platform handling millions of daily transactions, virtual cards, and micro-investments. |
+| ✈️ [**Aerox NextGen Database**](https://github.com/ManojK1104/Aerox_NextGen_DataBase) | A next-gen aviation analytics solution built in Power BI covering flight operations, booking behaviour, revenue performance, and crew management. |
+| 📈 [**Client Dataset Analytics**](https://github.com/ManojK1104/Client_Dataset_analytics) | A unified, enterprise-style dataset combining sales, customer, marketing, operations, and risk data for operational and executive-level insights. |
+| 🛍️ [**ShopVerse FinTech Solutions**](https://github.com/ManojK1104/ShopVerse_FinTechSolutions) | A simulated dataset of real-world FinTech operations — transactions, customer behavior, lending, and fraud detection across India (2020–2025). |
+| 💰 [**FundRaising BI Model**](https://github.com/ManojK1104/FundRaising_BusinessIntellegence_Model) | An interactive Power BI dashboard turning fundraising data into insights on donor performance, campaign effectiveness, and KPI tracking. |
+| ❤️ [**Heart Disease Prediction Model**](https://github.com/ManojK1104/heart_diseases_predictionmodel) | An ML pipeline predicting heart disease risk from clinical and wearable-device data using a Random Forest classifier with SMOTE, plus CI via GitHub Actions. |
+| 📦 [**Supply Chain Prediction Model**](https://github.com/ManojK1104/supply_chain_predictionmodel) | An ML regression pipeline predicting warehouse product weight from supply chain operations data using Random Forest. |
+| 📞 [**Telecom Churn Prediction Model**](https://github.com/ManojK1104/telecom_churnmodel_prediction) | A classification model that analyzes customer data to predict churn, helping identify at-risk customers for proactive retention. |
 
-</div>
+> 📌 Check out all my repositories [here](https://github.com/ManojK1104?tab=repositories).
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManojK1104&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojK1104&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojK1104&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
+---
+
+<p align="center"><i>💡 Turning raw data into real-world insights, one commit at a time.</i></p>
