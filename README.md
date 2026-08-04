@@ -43,6 +43,9 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 
 - **[Aerox NextGen Database](https://github.com/ManojK1104/Aerox_NextGen_DataBase)** *(Power BI)*
   Built an aviation analytics solution to monitor flight operations, passenger booking behavior, revenue performance, aircraft utilization, and crew management.
+- **[Heart Disease Prediction Model](https://github.com/ManojK1104/heart_diseases_predictionmodel)** | An ML pipeline predicting heart disease risk from clinical and wearable-device data using a Random Forest classifier with SMOTE, plus CI via GitHub Actions. |
+- **[Supply Chain Prediction Model](https://github.com/ManojK1104/supply_chain_predictionmodel)** | An ML regression pipeline predicting warehouse product weight from supply chain operations data using Random Forest. |
+- **[Telecom Churn Prediction Model](https://github.com/ManojK1104/telecom_churnmodel_prediction)** | A classification model that analyzes customer data to predict churn, helping identify at-risk customers for proactive retention. |
 
 ---
 
