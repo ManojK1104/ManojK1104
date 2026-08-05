@@ -1,4 +1,3 @@
-READ ME MANOJ
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EB9DF&center=true&vCenter=true&random=false&width=435&lines=Manoj+R+Kushwaha" alt="Typing SVG" />
 </h1>
