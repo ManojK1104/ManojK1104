@@ -36,16 +36,29 @@ I'm comfortable owning the full analytics lifecycle: designing schemas in SQL, c
 
 Adept at designing enterprise-style datasets and analytics solutions across fintech, aviation, and retail.
 
-| Project | Stack | Impact |
-|---|---|---|
-| **[ShopVerse FinTech Analytics Solution](https://github.com/ManojK1104/ShopVerse_FinTechSolutions)** | Python, SQL, Power BI, DAX | Built a FinTech analytics solution to monitor online payment transactions, detect fraudulent activity, and analyze customer behavior. Automated transaction reporting with an interactive Power BI dashboard — cutting manual analysis time by 70% (10 hrs/week → 3 hrs) and improving real-time fraud detection. |
-| **[Fundraising Business Intelligence Dashboard](https://github.com/ManojK1104/FundRaising_BusinessIntellegence_Model)** | Python, SQL, Power BI, Tableau, DAX | Designed a BI solution to analyze fundraising campaigns and track donor contributions. Integrated multi-source data via SQL and built KPI dashboards in Power BI, reducing manual reporting effort by 60% and improving campaign visibility. |
-| **[Client Dataset Analysis & Insights Dashboard](https://github.com/ManojK1104/Client_Dataset_analytics)** | Python, SQL, Power BI, Tableau, DAX | Partnered with a client to clean and analyze their raw operational dataset, uncover key trends, and deliver a self-service reporting solution — cutting manual reporting time by over 50%. |
-| **[NexusPay Transaction Database](https://github.com/ManojK1104/NexusPay_TransactionDataBase)** | SQL, Database Design | Designed a scalable database architecture for a fast-growing fintech platform supporting P2P transfers, merchant payments, virtual cards, and micro-investments. |
-| **[Aerox NextGen Database](https://github.com/ManojK1104/Aerox_NextGen_DataBase)** | Power BI | Built an aviation analytics solution to monitor flight operations, passenger booking behavior, revenue performance, aircraft utilization, and crew management. |
-| **[Heart Disease Prediction Model](https://github.com/ManojK1104/heart_diseases_predictionmodel)** | Python, Scikit-Learn | ML pipeline predicting heart disease risk from clinical and wearable-device data using a Random Forest classifier with SMOTE, plus CI via GitHub Actions. |
-| **[Supply Chain Prediction Model](https://github.com/ManojK1104/supply_chain_predictionmodel)** | Python, Scikit-Learn | ML regression pipeline predicting warehouse product weight from supply chain operations data using Random Forest. |
-| **[Telecom Churn Prediction Model](https://github.com/ManojK1104/telecom_churnmodel_prediction)** | Python, Scikit-Learn | Classification model that analyzes customer data to predict churn, helping identify at-risk customers for proactive retention. |
+- **[ShopVerse FinTech Analytics Solution](https://github.com/ManojK1104/ShopVerse_FinTechSolutions)** *(Python, SQL, Power BI, DAX)*
+  Built a FinTech analytics solution to monitor online payment transactions, detect fraudulent activity, and analyze customer behavior. Automated transaction reporting with an interactive Power BI dashboard — cutting manual analysis time by 70% (10 hrs/week → 3 hrs) and improving real-time fraud detection.
+
+- **[Fundraising Business Intelligence Dashboard](https://github.com/ManojK1104/FundRaising_BusinessIntellegence_Model)** *(Python, SQL, Power BI, Tableau, DAX)*
+  Designed a BI solution to analyze fundraising campaigns and track donor contributions. Integrated multi-source data via SQL and built KPI dashboards in Power BI, reducing manual reporting effort by 60% and improving campaign visibility.
+
+- **[Client Dataset Analysis & Insights Dashboard](https://github.com/ManojK1104/Client_Dataset_analytics)** *(Python, SQL, Power BI, Tableau, DAX)*
+  Partnered with a client to clean and analyze their raw operational dataset, uncover key trends, and deliver a self-service reporting solution — cutting manual reporting time by over 50%.
+
+- **[NexusPay Transaction Database](https://github.com/ManojK1104/NexusPay_TransactionDataBase)** *(SQL, Database Design)*
+  Designed a scalable database architecture for a fast-growing fintech platform supporting P2P transfers, merchant payments, virtual cards, and micro-investments.
+
+- **[Aerox NextGen Database](https://github.com/ManojK1104/Aerox_NextGen_DataBase)** *(Power BI)*
+  Built an aviation analytics solution to monitor flight operations, passenger booking behavior, revenue performance, aircraft utilization, and crew management.
+
+- **[Heart Disease Prediction Model](https://github.com/ManojK1104/heart_diseases_predictionmodel)** *(Python, Scikit-Learn)*
+  ML pipeline predicting heart disease risk from clinical and wearable-device data using a Random Forest classifier with SMOTE, plus CI via GitHub Actions.
+
+- **[Supply Chain Prediction Model](https://github.com/ManojK1104/supply_chain_predictionmodel)** *(Python, Scikit-Learn)*
+  ML regression pipeline predicting warehouse product weight from supply chain operations data using Random Forest.
+
+- **[Telecom Churn Prediction Model](https://github.com/ManojK1104/telecom_churnmodel_prediction)** *(Python, Scikit-Learn)*
+  Classification model that analyzes customer data to predict churn, helping identify at-risk customers for proactive retention.
 
 ---
 
@@ -62,6 +75,15 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**MLOps**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4B8BBE?style=flat-square)
+![Model Deployment](https://img.shields.io/badge/Model_Deployment-4B8BBE?style=flat-square)
 
 **Data Analysis & Visualization**
 
@@ -132,3 +154,4 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 📫 **Let's connect** — open to entry-level Data Science / Analytics opportunities and conversations about data and insights.
 
 </div>
+
