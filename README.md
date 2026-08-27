@@ -74,7 +74,13 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 **Machine Learning**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Deep Learning**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-6A5ACD?style=flat-square)
 
 **MLOps**
 
@@ -154,4 +160,3 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 📫 **Let's connect** — open to entry-level Data Science / Analytics opportunities and conversations about data and insights.
 
 </div>
-
