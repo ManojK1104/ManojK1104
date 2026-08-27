@@ -24,42 +24,47 @@ Aspiring Data Science & Analytics professional with hands-on experience in Pytho
 
 ---
 
+## 👔 Professional Summary
+
+I approach data problems the way a business analyst would: start with the question that matters to a stakeholder, then work backward to the datasets, transformations, and visuals that answer it. My project portfolio spans **fintech, aviation, fundraising, and telecom**, and consistently focuses on measurable outcomes — cutting manual reporting time, catching fraud earlier, or flagging churn risk before it happens.
+
+I'm comfortable owning the full analytics lifecycle: designing schemas in SQL, cleaning and engineering features in Python, validating findings with statistical methods, and packaging results into Power BI / Tableau dashboards that non-technical stakeholders can act on. I'm now looking to bring that same rigor to an entry-level Data Science or Data Analytics team.
+
+---
+
 ## 🛠️ Featured Projects
 
 Adept at designing enterprise-style datasets and analytics solutions across fintech, aviation, and retail.
 
-- **[ShopVerse FinTech Analytics Solution](https://github.com/ManojK1104/ShopVerse_FinTechSolutions)** *(Python, SQL, Power BI, DAX)*
-  Built a FinTech analytics solution to monitor online payment transactions, detect fraudulent activity, and analyze customer behavior. Automated transaction reporting with an interactive Power BI dashboard — cutting manual analysis time by 70% (10 hrs/week → 3 hrs) and improving real-time fraud detection.
-
-- **[Fundraising Business Intelligence Dashboard](https://github.com/ManojK1104/FundRaising_BusinessIntellegence_Model)** *(Python, SQL, Power BI, Tableau, DAX)*
-  Designed a BI solution to analyze fundraising campaigns and track donor contributions. Integrated multi-source data via SQL and built KPI dashboards in Power BI, reducing manual reporting effort by 60% and improving campaign visibility.
-
-- **[Client Dataset Analysis & Insights Dashboard](https://github.com/ManojK1104/Client_Dataset_analytics)** *(Python, SQL, Power BI, Tableau, DAX)*
-  Partnered with a client to clean and analyze their raw operational dataset, uncover key trends, and deliver a self-service reporting solution — cutting manual reporting time by over 50%.
-
-- **[NexusPay Transaction Database](https://github.com/ManojK1104/NexusPay_TransactionDataBase)** *(SQL, Database Design)*
-  Designed a scalable database architecture for a fast-growing fintech platform supporting P2P transfers, merchant payments, virtual cards, and micro-investments.
-
-- **[Aerox NextGen Database](https://github.com/ManojK1104/Aerox_NextGen_DataBase)** *(Power BI)*
-  Built an aviation analytics solution to monitor flight operations, passenger booking behavior, revenue performance, aircraft utilization, and crew management.
-- **[Heart Disease Prediction Model](https://github.com/ManojK1104/heart_diseases_predictionmodel)** | An ML pipeline predicting heart disease risk from clinical and wearable-device data using a Random Forest classifier with SMOTE, plus CI via GitHub Actions. |
-- **[Supply Chain Prediction Model](https://github.com/ManojK1104/supply_chain_predictionmodel)** | An ML regression pipeline predicting warehouse product weight from supply chain operations data using Random Forest. |
-- **[Telecom Churn Prediction Model](https://github.com/ManojK1104/telecom_churnmodel_prediction)** | A classification model that analyzes customer data to predict churn, helping identify at-risk customers for proactive retention. |
+| Project | Stack | Impact |
+|---|---|---|
+| **[ShopVerse FinTech Analytics Solution](https://github.com/ManojK1104/ShopVerse_FinTechSolutions)** | Python, SQL, Power BI, DAX | Built a FinTech analytics solution to monitor online payment transactions, detect fraudulent activity, and analyze customer behavior. Automated transaction reporting with an interactive Power BI dashboard — cutting manual analysis time by 70% (10 hrs/week → 3 hrs) and improving real-time fraud detection. |
+| **[Fundraising Business Intelligence Dashboard](https://github.com/ManojK1104/FundRaising_BusinessIntellegence_Model)** | Python, SQL, Power BI, Tableau, DAX | Designed a BI solution to analyze fundraising campaigns and track donor contributions. Integrated multi-source data via SQL and built KPI dashboards in Power BI, reducing manual reporting effort by 60% and improving campaign visibility. |
+| **[Client Dataset Analysis & Insights Dashboard](https://github.com/ManojK1104/Client_Dataset_analytics)** | Python, SQL, Power BI, Tableau, DAX | Partnered with a client to clean and analyze their raw operational dataset, uncover key trends, and deliver a self-service reporting solution — cutting manual reporting time by over 50%. |
+| **[NexusPay Transaction Database](https://github.com/ManojK1104/NexusPay_TransactionDataBase)** | SQL, Database Design | Designed a scalable database architecture for a fast-growing fintech platform supporting P2P transfers, merchant payments, virtual cards, and micro-investments. |
+| **[Aerox NextGen Database](https://github.com/ManojK1104/Aerox_NextGen_DataBase)** | Power BI | Built an aviation analytics solution to monitor flight operations, passenger booking behavior, revenue performance, aircraft utilization, and crew management. |
+| **[Heart Disease Prediction Model](https://github.com/ManojK1104/heart_diseases_predictionmodel)** | Python, Scikit-Learn | ML pipeline predicting heart disease risk from clinical and wearable-device data using a Random Forest classifier with SMOTE, plus CI via GitHub Actions. |
+| **[Supply Chain Prediction Model](https://github.com/ManojK1104/supply_chain_predictionmodel)** | Python, Scikit-Learn | ML regression pipeline predicting warehouse product weight from supply chain operations data using Random Forest. |
+| **[Telecom Churn Prediction Model](https://github.com/ManojK1104/telecom_churnmodel_prediction)** | Python, Scikit-Learn | Classification model that analyzes customer data to predict churn, helping identify at-risk customers for proactive retention. |
 
 ---
 
 ## ⚡ Tech Stack
 
 **Programming & Databases**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Machine Learning**
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Data Analysis & Visualization**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=Matplotlib&logoColor=black)
@@ -71,14 +76,17 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **Tools & Platforms**
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-1F0954?style=flat-square)
 
 **Data Analysis**
+
 ![EDA](https://img.shields.io/badge/EDA-4B8BBE?style=flat-square)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4B8BBE?style=flat-square)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-4B8BBE?style=flat-square)
@@ -86,12 +94,14 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 ![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-4B8BBE?style=flat-square)
 
 **Excel Skills**
+
 ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square)
 ![VLOOKUP](https://img.shields.io/badge/VLOOKUP-217346?style=flat-square)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
 ![Power Pivot](https://img.shields.io/badge/Power_Pivot-217346?style=flat-square)
 
 **Machine Learning Techniques**
+
 ![Linear Regression](https://img.shields.io/badge/Linear_Regression-F7931E?style=flat-square)
 ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-F7931E?style=flat-square)
 ![Decision Trees](https://img.shields.io/badge/Decision_Trees-F7931E?style=flat-square)
@@ -99,6 +109,7 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 ![K-Means Clustering](https://img.shields.io/badge/K--Means_Clustering-F7931E?style=flat-square)
 
 **Core Concepts**
+
 ![Probability](https://img.shields.io/badge/Probability-6A5ACD?style=flat-square)
 ![Statistics](https://img.shields.io/badge/Statistics-6A5ACD?style=flat-square)
 ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-6A5ACD?style=flat-square)
@@ -107,6 +118,16 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManojK1104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manoj's GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojK1104&theme=tokyonight&hide_border=true" alt="Manoj's GitHub streak" />
+</div>
+
+---
+
+<div align="center">
 
 📫 **Let's connect** — open to entry-level Data Science / Analytics opportunities and conversations about data and insights.
 
