@@ -145,18 +145,6 @@ Adept at designing enterprise-style datasets and analytics solutions across fint
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-6A5ACD?style=flat-square)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManojK1104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manoj's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojK1104&theme=tokyonight&hide_border=true" alt="Manoj's GitHub streak" />
-</div>
-
----
-
-<div align="center">
-
 📫 **Let's connect** — open to entry-level Data Science / Analytics opportunities and conversations about data and insights.
 
 </div>
