@@ -98,21 +98,9 @@ manoj = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ManojK1104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojK1104&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm currently **open to entry-level Data Science / Data Analytics roles** — and always happy to talk about data, dashboards, and ML.
 
 **[🌐 Portfolio](https://manojk1104.github.io/) · [💼 LinkedIn](https://linkedin.com/in/manoj-kushwaha-5840a428b) · [📧 Email](mailto:manojrkushwaha85@gmail.com) · [🐙 GitHub](https://github.com/ManojK1104) · [📦 DagsHub](https://dagshub.com/ManojK1104)**
 
-⭐️ *If a project here helps you, a star means a lot.*
