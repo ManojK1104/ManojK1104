@@ -14,7 +14,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManojK1104)
 [![DagsHub](https://img.shields.io/badge/DagsHub-1F0954?style=for-the-badge&logo=dagshub&logoColor=white)](https://dagshub.com/ManojK1104)
 
-<img src="https://komarev.com/ghpvc/?username=ManojK1104&style=flat-square&color=2EB9DF&label=Profile+Views" alt="Profile views" />
 
 </div>
 
