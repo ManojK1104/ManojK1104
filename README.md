@@ -45,33 +45,62 @@ manoj = {
 ---
 
 ## ⚡ Tech Stack
-
-**Languages & Databases**
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Data Analysis & Visualization**
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-8CAAE6?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**Machine Learning & Deep Learning**
-
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Machine Learning**
+
+![Linear & Logistic Regression](https://img.shields.io/badge/Linear_%26_Logistic_Regression-6A5ACD?style=flat-square)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-6A5ACD?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random_Forest-6A5ACD?style=flat-square)
+![K-Means Clustering](https://img.shields.io/badge/K--Means_Clustering-6A5ACD?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-6A5ACD?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-6A5ACD?style=flat-square)
+![SMOTE](https://img.shields.io/badge/SMOTE-6A5ACD?style=flat-square)
+
+**Deep Learning**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random_Forest-6A5ACD?style=flat-square)
-![SMOTE](https://img.shields.io/badge/SMOTE-6A5ACD?style=flat-square)
+![ANN](https://img.shields.io/badge/Artificial_Neural_Networks-EE4C2C?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-EE4C2C?style=flat-square)
+![RNN](https://img.shields.io/badge/RNN-EE4C2C?style=flat-square)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-EE4C2C?style=flat-square)
+![Model Optimization](https://img.shields.io/badge/Model_Optimization-EE4C2C?style=flat-square)
+
+**Data Analysis & Statistics**
+
+![EDA](https://img.shields.io/badge/EDA-2EB9DF?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2EB9DF?style=flat-square)
+![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-2EB9DF?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-2EB9DF?style=flat-square)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-2EB9DF?style=flat-square)
+![Probability](https://img.shields.io/badge/Probability-2EB9DF?style=flat-square)
+![PCA](https://img.shields.io/badge/PCA-2EB9DF?style=flat-square)
+
+**Data Visualization**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-8CAAE6?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Queries](https://img.shields.io/badge/SQL_Queries-4479A1?style=flat-square)
+![Joins](https://img.shields.io/badge/Joins-4479A1?style=flat-square)
+![Aggregations](https://img.shields.io/badge/Aggregations-4479A1?style=flat-square)
 
 **MLOps & Tools**
 
@@ -79,9 +108,26 @@ manoj = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Model Deployment](https://img.shields.io/badge/Model_Deployment-2088FF?style=flat-square)
+![Model Monitoring](https://img.shields.io/badge/Model_Monitoring-2088FF?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
 
+**Automation & AutoML**
+
+![AutoML](https://img.shields.io/badge/AutoML_(FLAML)-9C27B0?style=flat-square)
+![AutoGluon](https://img.shields.io/badge/AutoGluon-9C27B0?style=flat-square)
+
+**Core Concepts**
+
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-455A64?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-455A64?style=flat-square)
+![Predictive Modelling](https://img.shields.io/badge/Predictive_Modelling-455A64?style=flat-square)
+![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality_Reduction-455A64?style=flat-square)
 ---
 
 ## 🏆 Featured Projects
